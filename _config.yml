@@ -1,5 +1,5 @@
-title: "Mi sitio genial"
-description: "Este es mi sitio creado con Jekyll y Markdown"
+title: "AngelGranadosUACM"
+description: "Portafolio de trabajo"
 baseurl: "" # Dejar vacío si el sitio está en la raíz del repositorio
 url: "https://angelgranadosuacm.github.io" # URL de tu página
 remote_theme: pages-themes/hacker@v0.2.0
