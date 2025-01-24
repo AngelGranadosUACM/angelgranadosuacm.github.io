@@ -1,3 +1,5 @@
+![imagen](referencias/escudouacm.jpg)
+
 # Cuaderno de estudio JAVA
 ## Índice Principal
 
