@@ -1,1 +1,6 @@
-theme: jekyll-theme-cayman
+title: "Mi sitio genial"
+description: "Este es mi sitio creado con Jekyll y Markdown"
+baseurl: "" # Dejar vacío si el sitio está en la raíz del repositorio
+url: "https://angelgranadosuacm.github.io" # URL de tu página
+theme: jekyll-theme-midnight # Tema de Jekyll
+markdown: kramdown
